@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423413524333",
+    "project_id": "admin-12c24",
+    "storage_bucket": "admin-12c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423413524333:android:4fa3a1eb4f0c32f02c1c64",
+        "android_client_info": {
+          "package_name": "com.company.att"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423413524333-s1d6jrbi1k90vpf1c07ed1qb9ibeboco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPlceF66TfKxeILa4AdeWYVnav1AYJ1gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423413524333-s1d6jrbi1k90vpf1c07ed1qb9ibeboco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
